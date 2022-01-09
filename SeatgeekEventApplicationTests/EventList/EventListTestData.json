@@ -1,0 +1,478 @@
+
+{
+  "events": [
+    {
+      "type": "rodeo",
+      "id": 5572486,
+      "datetime_utc": "2022-01-08T03:59:00",
+      "venue": {
+        "state": "NV",
+        "name_v2": "Reno Events Center",
+        "postal_code": "89501",
+        "name": "Reno Events Center",
+        "links": [
+          
+        ],
+        "timezone": "America\/Los_Angeles",
+        "url": "https:\/\/seatgeek.com\/venues\/reno-events-center\/tickets",
+        "score": 0.37,
+        "location": {
+          "lat": 39.5308,
+          "lon": -119.812
+        },
+        "address": "400 North Center Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 5,
+        "city": "Reno",
+        "slug": "reno-events-center",
+        "extended_address": "Reno, NV 89501",
+        "id": 637,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 811,
+        "capacity": 8000,
+        "last_full_index_at": "2022-01-08T09:00:53Z",
+        "display_location": "Reno, NV"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "rodeo",
+          "name": "Professional Bull Riders",
+          "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/professional-bull-riders-949da8\/9205\/huge.jpg",
+          "id": 9205,
+          "images": {
+            "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/professional-bull-riders-949da8\/9205\/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 75
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T16:22:28Z"
+            },
+            {
+              "id": 1100000,
+              "name": "animal_sports",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2021-12-08T12:22:11Z"
+            },
+            {
+              "id": 1100200,
+              "name": "rodeo",
+              "parent_id": 1100000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T16:22:28Z"
+            }
+          ],
+          "image_attribution": "http:\/\/lazye.com\/photos\/MikeWhiteOKC_Man.JPG",
+          "url": "https:\/\/seatgeek.com\/professional-bull-riders-tickets",
+          "score": 0.28,
+          "slug": "professional-bull-riders",
+          "home_venue_id": null,
+          "short_name": "Professional Bull Riders",
+          "num_upcoming_events": 75,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "location": null,
+          "last_full_index_at": "2022-01-08T09:01:17Z"
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2022-01-07T03:30:00",
+      "time_tbd": true,
+      "short_title": "PBR: 2 Day Package",
+      "visible_until_utc": "2022-01-09T00:29:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0,
+          "last_full_index_at": "2022-01-07T16:22:28Z"
+        },
+        {
+          "id": 1100000,
+          "name": "animal_sports",
+          "parent_id": 1000000,
+          "rank": 0,
+          "last_full_index_at": "2021-12-08T12:22:11Z"
+        },
+        {
+          "id": 1100200,
+          "name": "rodeo",
+          "parent_id": 1100000,
+          "rank": 0,
+          "last_full_index_at": "2022-01-07T16:22:28Z"
+        }
+      ],
+      "url": "https:\/\/seatgeek.com\/pbr-2-day-package-tickets\/rodeo\/2022-01-07-3-30-am\/5572486",
+      "score": 0.441,
+      "announce_date": "2021-11-18T00:00:00",
+      "created_at": "2021-11-18T22:20:30",
+      "date_tbd": false,
+      "title": "PBR: 2 Day Package",
+      "popularity": 0.515,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        "checkout_disclosures": {
+          "messages": [
+            {
+              "text": "This app belongs to SeatGeek, a secondary ticket exchange."
+            }
+          ]
+        }
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "last_full_index_at": "2022-01-08T09:09:48Z",
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    
+    {
+      "type": "ncaa_basketball",
+      "id": 5504836,
+      "datetime_utc": "2022-01-08T08:30:00",
+      "venue": {
+        "state": "RI",
+        "name_v2": "Dunkin' Donuts Center",
+        "postal_code": "02903",
+        "name": "Dunkin' Donuts Center",
+        "links": [
+          
+        ],
+        "timezone": "America\/New_York",
+        "url": "https:\/\/seatgeek.com\/venues\/dunkin-donuts-center\/tickets",
+        "score": 0.38,
+        "location": {
+          "lat": 41.8236,
+          "lon": -71.418
+        },
+        "address": "1 Lasalle Square",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 44,
+        "city": "Providence",
+        "slug": "dunkin-donuts-center",
+        "extended_address": "Providence, RI 02903",
+        "id": 805,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 521,
+        "capacity": 14000,
+        "last_full_index_at": "2022-01-08T09:01:46Z",
+        "display_location": "Providence, RI"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "ncaa_basketball",
+          "name": "Providence Friars Basketball",
+          "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/providence-friars-basketball-9a5827\/4044\/huge.jpg",
+          "id": 4044,
+          "images": {
+            "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/providence-friars-basketball-9a5827\/4044\/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1030200,
+              "short_name": null,
+              "display_name": "Division I",
+              "display_type": "Division",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1030200,
+              "short_name": "Big East",
+              "display_name": "Big East",
+              "display_type": "Conference",
+              "division_level": 2,
+              "slug": "big-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 15
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T16:22:28Z"
+            },
+            {
+              "id": 1030000,
+              "name": "basketball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T04:22:28Z"
+            },
+            {
+              "id": 1030200,
+              "name": "ncaa_basketball",
+              "parent_id": 1030000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 5,
+              "last_full_index_at": "2022-01-07T20:22:16Z"
+            }
+          ],
+          "image_attribution": "null",
+          "url": "https:\/\/seatgeek.com\/providence-friars-basketball-tickets",
+          "score": 0.29,
+          "slug": "providence-friars-basketball",
+          "home_venue_id": 805,
+          "short_name": "Providence",
+          "num_upcoming_events": 15,
+          "colors": {
+            "all": [
+              "#0C2340",
+              "#9EA2A2",
+              "#0C2340"
+            ],
+            "iconic": "#0C2340",
+            "primary": [
+              "#0C2340",
+              "#9EA2A2"
+            ]
+          },
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 41.8236,
+            "lon": -71.418
+          },
+          "last_full_index_at": "2022-01-08T09:01:53Z"
+        },
+        {
+          "type": "ncaa_basketball",
+          "name": "St. John's Red Storm Basketball",
+          "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/st-john-s-red-storm-basketball-934a67\/4048\/huge.jpg",
+          "id": 4048,
+          "images": {
+            "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/st-john-s-red-storm-basketball-934a67\/4048\/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1030200,
+              "short_name": null,
+              "display_name": "Division I",
+              "display_type": "Division",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1030200,
+              "short_name": "Big East",
+              "display_name": "Big East",
+              "display_type": "Conference",
+              "division_level": 2,
+              "slug": "big-east"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 18
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T16:22:28Z"
+            },
+            {
+              "id": 1030000,
+              "name": "basketball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0,
+              "last_full_index_at": "2022-01-07T04:22:28Z"
+            },
+            {
+              "id": 1030200,
+              "name": "ncaa_basketball",
+              "parent_id": 1030000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 5,
+              "last_full_index_at": "2022-01-07T20:22:16Z"
+            }
+          ],
+          "image_attribution": "null",
+          "url": "https:\/\/seatgeek.com\/st-john-s-red-storm-basketball-tickets",
+          "score": 0.3,
+          "slug": "st-john-s-red-storm-basketball",
+          "home_venue_id": 3479,
+          "short_name": "St. John's",
+          "num_upcoming_events": 18,
+          "colors": {
+            "all": [
+              "#BA0C2F",
+              "#041C2C",
+              "#BA0C2F"
+            ],
+            "iconic": "#BA0C2F",
+            "primary": [
+              "#BA0C2F",
+              "#041C2C"
+            ]
+          },
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 40.7256,
+            "lon": -73.7916
+          },
+          "last_full_index_at": "2022-01-08T09:01:58Z"
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2022-01-08T03:30:00",
+      "time_tbd": true,
+      "short_title": "St. John's at Providence",
+      "visible_until_utc": "2022-01-09T05:00:00",
+      "stats": {
+        "listing_count": 67,
+        "average_price": 34,
+        "lowest_price_good_deals": 6,
+        "lowest_price": 6,
+        "highest_price": 319,
+        "visible_listing_count": 67,
+        "dq_bucket_counts": [
+          8,
+          19,
+          24,
+          5,
+          5,
+          6,
+          8,
+          0
+        ],
+        "median_price": 17,
+        "lowest_sg_base_price": 4,
+        "lowest_sg_base_price_good_deals": 4
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0,
+          "last_full_index_at": "2022-01-07T16:22:28Z"
+        },
+        {
+          "id": 1030000,
+          "name": "basketball",
+          "parent_id": 1000000,
+          "rank": 0,
+          "last_full_index_at": "2022-01-07T04:22:28Z"
+        },
+        {
+          "id": 1030200,
+          "name": "ncaa_basketball",
+          "parent_id": 1030000,
+          "rank": 5,
+          "last_full_index_at": "2022-01-07T20:22:16Z"
+        }
+      ],
+      "url": "https:\/\/seatgeek.com\/st-johns-red-storm-at-providence-friars-basketball-tickets\/ncaa-basketball\/2022-01-08-3-30-am\/5504836",
+      "score": 0.492,
+      "announce_date": "2021-09-23T00:00:00",
+      "created_at": "2021-09-23T17:47:37",
+      "date_tbd": false,
+      "title": "St. John's Red Storm at Providence Friars Basketball",
+      "popularity": 0.566,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "last_full_index_at": "2022-01-08T09:31:59Z",
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    }
+  ]
+}
